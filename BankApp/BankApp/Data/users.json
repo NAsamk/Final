@@ -1,0 +1,76 @@
+[
+  {
+    "CardNumber": "1234-5678-9012-3456",
+    "ExpiryDate": "12/28",
+    "Pin": 1234,
+    "Currency": "GEL",
+    "Balances": {
+      "GEL": 1904.8,
+      "USD": 6.36,
+      "EUR": 11.67
+    },
+    "Transactions": [
+      {
+        "TransactionDate": "2025-09-28T18:55:57.7699435+04:00",
+        "Amount": 12,
+        "Type": "Withdraw",
+        "Currency": "GEL",
+        "Description": "Cash withdrawal"
+      },
+      {
+        "TransactionDate": "2025-09-28T18:56:04.1140168+04:00",
+        "Amount": 12,
+        "Type": "Deposit",
+        "Currency": "GEL",
+        "Description": "Cash deposit"
+      },
+      {
+        "TransactionDate": "2025-09-28T18:56:32.7302451+04:00",
+        "Amount": 10,
+        "Type": "Currency Conversion",
+        "Currency": "GEL",
+        "Description": "Converted to 3.70 USD"
+      },
+      {
+        "TransactionDate": "2025-09-28T19:02:43.5128892+04:00",
+        "Amount": 12,
+        "Type": "Currency Conversion",
+        "Currency": "GEL",
+        "Description": "Converted to 4.44 USD"
+      },
+      {
+        "TransactionDate": "2025-09-28T19:02:52.4648304+04:00",
+        "Amount": 2,
+        "Type": "Currency Conversion",
+        "Currency": "USD",
+        "Description": "Converted to 5.40 GEL"
+      },
+      {
+        "TransactionDate": "2025-09-28T19:02:57.2595417+04:00",
+        "Amount": 1,
+        "Type": "Currency Conversion",
+        "Currency": "EUR",
+        "Description": "Converted to 3.00 GEL"
+      },
+      {
+        "TransactionDate": "2025-09-28T19:03:14.0019321+04:00",
+        "Amount": 12,
+        "Type": "Currency Conversion",
+        "Currency": "USD",
+        "Description": "Converted to 32.40 GEL"
+      }
+    ]
+  },
+  {
+    "CardNumber": "1111-2222-3333-4444",
+    "ExpiryDate": "11/27",
+    "Pin": 4321,
+    "Currency": "GEL",
+    "Balances": {
+      "GEL": 5000,
+      "USD": 200,
+      "EUR": 100
+    },
+    "Transactions": []
+  }
+]
